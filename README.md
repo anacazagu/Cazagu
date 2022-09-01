@@ -1,5 +1,6 @@
 ✉: <anacazorla99@gmail.com>
 
+
 🌐: [Perfil de LinkedIn](https://www.linkedin.com/in/ana-cazorla-del-%C3%A1guila/ "LinkedIn de Ana")
 
 
@@ -17,10 +18,7 @@ Si has llegado hasta aquí, puede ser que te hallas perdido aunque sería demasi
 
 ## Actividades y Tiempo Libre
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
++ Deportes
++ Voluntariado
++ Actividades de ocio
++ Actividades de Divilgación científica
