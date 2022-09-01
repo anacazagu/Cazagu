@@ -10,7 +10,7 @@ Si has llegado hasta aquí, puede ser que te hallas perdido aunque sería demasi
 
 ## Estudios y Formación 
 
-+ Estudios Obligatorios
++ Estudios Obligatorios \@ref(Estudios Obligatorios)
 + Bachillerato y Canadian Experience
   - Bachillerato
   - Estudia en Canadá
@@ -22,3 +22,8 @@ Si has llegado hasta aquí, puede ser que te hallas perdido aunque sería demasi
 + Voluntariado
 + Actividades de ocio
 + Actividades de Divilgación científica
+
+___________________
+____________________
+
+### Estudios Obligatorios 
