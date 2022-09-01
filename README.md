@@ -17,10 +17,10 @@ Si has llegado hasta aquí, puede ser que te hallas perdido aunque sería demasi
 
 ## Actividades y Tiempo Libre
 
-`````mermaid
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-´´´´
+```
