@@ -8,9 +8,6 @@ Si has llegado hasta aquí, puede ser que te hallas perdido aunque sería demasi
 + Bachillerato y Canadian Experience
   - Bachillerato
   - Estudia en Canadá
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
 + Entrada a la Universidad
 
 ## Actividades y Tiempo Libre
