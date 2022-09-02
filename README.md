@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="splendor.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
 
 # Contacto
 
