@@ -23,7 +23,6 @@ Si has llegado hasta aquí, puede ser que te hallas perdido aunque sería demasi
 + Actividades de ocio
 + Actividades de Divilgación científica
 
-___________________
 ____________________
 
-### Estudios Obligatorios 
+### Estudios y Formación 
