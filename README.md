@@ -14,7 +14,7 @@ ____________________
 
 [Estudios y Formación](https://anacazagu.github.io/Cazagu/estudios  "Estudios de Ana")
 
-- Estudios Obligatorios \@ref(Estudios Obligatorios)
+- Estudios Obligatorios
 - Bachillerato y Canadian Experience
   - Bachillerato
   - Estudia en Canadá
@@ -22,7 +22,7 @@ ____________________
 
 ____________________
 
-[Actividades y Tiempo Libre]((https://anacazagu.github.io/Cazagu/ocio  "Tiempo Libre de Ana"))
+[Actividades y Tiempo Libre](https://anacazagu.github.io/Cazagu/ocio  "Tiempo Libre de Ana")
 
 - Actividades de Divilgación científica
 - Actividades de ocio
