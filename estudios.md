@@ -13,6 +13,8 @@ Mi primer contacto con la educación pública fue con tan solo 3 añitos en el c
 
 Al cerrar mi etapa en el CEIP Luis Siret, tocaba la ''bonita'' etapa de la pubertad en el instuto. El IES Alhamilla, centro público de referencia en la zona, nos abrió las puertas a mis compañeros y a mi. Tuve la oportunidad de  
 
+
+
 ## Bachillerato y experiencia en Canadá
 
 ## Estudios Universitarios
