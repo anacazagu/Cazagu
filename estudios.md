@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="estilo.css" media="screen" />
+
 # Formación y estudios
 
 + [Educación Obligatoria](https://anacazagu.github.io/Cazagu/estudios#educaci%C3%B3n-obligatoria)
